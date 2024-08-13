@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    height: 100vh;
+}
+
+header {
+    background-color: lightpink ; 
+    height: 80px;
+    width: 100%;
+    text-align: center;
+    line-height: 2.5;
+}
+
+main {
+    display: flex;
+    height: 80%;
+}
+
+nav {
+    background-color: rgb(78, 145, 145);
+    width: 40%;
+}
+
+article {
+    background-color: blanchedalmond;
+    width: 60%;
+}
+
+article  {
+    padding: 20px;
+}
